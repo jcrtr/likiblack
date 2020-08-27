@@ -5,14 +5,13 @@
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Linux-informational?style=for-the-badge&logo=linux&logoColor=white&color=0871c4)
 ![](https://img.shields.io/badge/Windows-informational?style=for-the-badge&logo=windows&logoColor=white&color=0871c4)
+![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=0871c4)
+![](https://img.shields.io/badge/PyCharm_IDEA-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=0871c4)
 
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=3b77aa)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=3b77aa)
+![](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=3b77aa)
 
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=3b77aa)
-![](https://img.shields.io/badge/Editor-PyCharm_IDEA-informational?style=flat&logo=pycharm-idea&logoColor=white&color=3b77aa)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3b77aa)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=3b77aa)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=3b77aa)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=3b77aa)
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=3b77aa)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3b77aa)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3b77aa)
