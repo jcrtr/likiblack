@@ -8,9 +8,9 @@
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=white&color=0871c4)
 ![](https://img.shields.io/badge/PyCharm-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=0871c4)
 
-![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=ffcd20)
-![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=ffcd20)
-![](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=ffcd20)
+![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=c41e3a)
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=c41e3a)
+![](https://img.shields.io/badge/Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=c41e3a)
 
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=3b77aa)
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=3b77aa)
