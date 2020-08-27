@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=0871c4)
 ![](https://img.shields.io/badge/-PyCharm-informational?style=for-the-badge&logo=intellij-idea&logoColor=white&color=0871c4)
 
-![](https://img.shields.io/badge/-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=c41e3a)
+![](https://img.shields.io/badge/-Python-informational-2088FF?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=c41e3a)
 ![](https://img.shields.io/badge/-Vue-informational?style=for-the-badge&logo=vue.js&logoColor=white&color=c41e3a)
 
