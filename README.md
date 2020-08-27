@@ -2,7 +2,8 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
-<p>Welcome to my page! I'm John, Fullstack developer from <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="14"> <b>Moscow</b>.
+<p>Welcome to my page! 
+I'm John, Fullstack developer from <img src="https://hatscripts.github.io/circle-flags/flags/ru.svg" width="14"> <b>Moscow</b>.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=white&color=0871c4)
